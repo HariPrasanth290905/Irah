@@ -17,6 +17,7 @@ public class Herbcontroller {
     @Autowired
     HerbRepository hr;
 
+    //comment added
     @GetMapping("/")
     public String welcome() {
         System.out.println("Welcome to Herbcontroller");
