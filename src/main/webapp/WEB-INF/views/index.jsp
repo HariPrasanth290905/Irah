@@ -11,5 +11,7 @@
 <h2>Herb List</h2>
 <div class="herb-container" id="herb-list"></div>
 <script src="/js/display.js"></script>
+
+
 </body>
 </html>
